@@ -1,6 +1,6 @@
 # Sample workflow to access AWS resources when workflow is tied to branch
 # The workflow Creates static website using aws s3
-name: testing
+name: workflow:my_corp_aws_action:repo:cider-research-testing/oidc-check:ref:refs/heads/main
 on:
   workflow_dispatch:
 
